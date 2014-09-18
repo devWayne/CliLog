@@ -13,7 +13,7 @@ var log = {
 			case TYPE.Warn:
 				console.log('\033[1;33m[WARN]' + msg + '\033[0m');
 				break;
-			case TYPE.INfo:
+			case TYPE.Info:
 				console.log('\033[36m[INFO]' + msg + '\033[0m');
 				break;
 			case TYPE.Debug:
