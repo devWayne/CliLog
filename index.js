@@ -40,4 +40,4 @@ var log = {
 }
 
 
-module.expors = log;
+module.exports = log;

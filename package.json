@@ -1,6 +1,6 @@
 {
   "name": "nl-clilog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NodeJs command-line log tool",
   "keywords": [
     "command-line",
