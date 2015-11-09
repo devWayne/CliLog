@@ -2,7 +2,7 @@ CliLog [![Build Status](https://travis-ci.org/devWayne/CliLog.svg?branch=master)
 ============
 > CliLog 
 
-##Usage
+## Usage
 
 ```
 log=require('clilog');
@@ -10,7 +10,7 @@ log=require('clilog');
 log.info('msg');
 ```
 
-##API
+## API
 
 #### log.print(msgType,String)   
 
